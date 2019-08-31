@@ -21,12 +21,12 @@ description: Studying pathways for energy and water systems
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
-    - Research Interests & Publications: "publications"
+  Research:
+    - Research Interests: "publications"
     - Join the Team!: "postings"
     - Google Scholar Profile: "https://scholar.google.com/citations?user=gwNKyC4AAAAJ&hl=en"
   Teaching Experience: "teaching"
-  Service and Outreach: "service"
+  Service and Outreach:
     - K-12 Outreach: "outreach"
     - Equity, Diversity, and Inclusion: "edi_work"
 
