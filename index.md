@@ -7,6 +7,7 @@ subtitle: National Energy Technology Laboratory & Stanford University
 ## News
 - I've moved!  I'm now a visiting Post-Doc in Civil & Environmental Engineering at Stanford University.
 
+## Twitter
 <p>
  <a class="twitter-timeline"
  href="https://twitter.com/DanielGingerich"
