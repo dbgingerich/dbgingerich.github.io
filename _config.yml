@@ -24,7 +24,7 @@ navbar-links:
   Research:
     - Coal Generation & The Environment: "energy"
     - Sustainability of Municipal Water Infrastructure: "water"
-    - Join the Team!: "postings"
+#    - Join the Team!: "postings"
     - Google Scholar Profile: "https://scholar.google.com/citations?user=gwNKyC4AAAAJ&hl=en"
     - Curriculum Vitae: "https://drive.google.com/file/d/188E_OTvnJJD5OdcWoC1_lRtII3Z9bC2A/view?usp=sharing"
   Teaching Experience: "teaching"
