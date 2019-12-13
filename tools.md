@@ -7,7 +7,7 @@ subtitle: Translating Research Into Tools for Decision Makers, Policy Analysts, 
 
 Coal is a complex mixture containing trace elements of environmetnal concern, including mercury, arsenic, selenium, and lead.  The COntaminant behavior in Air, Liquid, and Solids (COALS) Controls tool is a model that has been developed to predict the partitioning behavior of these trace elements at coal-fired power plants.
 
-The tool is available as Python code and as an .exe file that can be installed on Windows computers.  Details and docuemntation can be found on the [Open Science Foundation project page] (https://osf.io/6rfe8/).  The code can be found on the [GitHub project page](https://github.com/we3lab/coals_controls).
+The tool is available as Python code and as an .exe file that can be installed on Windows computers.  Details and docuemntation can be found on the [Open Science Foundation project page](https://osf.io/6rfe8/).  The code can be found on the [GitHub project page](https://github.com/we3lab/coals_controls).
 
 ## Papers Published Using the COALS Controls Framework
 **Gingerich, D.B.**; Zhao, Y.; Mauter, M.S. Environmentally significant shifts in trace element emissions from coal plants complying with the 1990 Clean Air Act Amendments, *Energy Policy*, 2019, *132*, 1206-1215.
@@ -20,7 +20,7 @@ Sun, X.; **Gingerich, D.B.**; Azevedo, I.L.; Mauter, M.S. Trace element mass flo
 
 The goal of drinking water and wastewater treatment is to reduce human health risks from chemical, radiological, or biological contaminants.  However, treating this water involves using electricity to drive processes or chemical reagents - producing either of which leads to air emissions that reduce the overall health benefits of that water treatment.  The Water Associated Health and Environmental Air Damages (AHEAD) tool has been developed to quantify the social damages associated with treating drinking water, municipal wastewater, and industrial wastewater.
 
-The tool is available as Python code and as an .exe file.  Details and docuemntation can be found on the [Open Science Foundation project page] (https://osf.io/p28ax/).  The code can be found on the [GitHub project page](https://github.com/we3lab/water-ahead).
+The tool is available as Python code and as an .exe file.  Details and docuemntation can be found on the [Open Science Foundation project page](https://osf.io/p28ax/).  The code can be found on the [GitHub project page](https://github.com/we3lab/water-ahead).
 
 ## Papers Published Using the Water AHEAD Framework
 **Gingerich, D.B.**; Mauter, M.S., Air Emission Benefits of Biogas Electricity Generation at Municipal Wastewater Treatment Plants, *Environmental Science & Technology*, 2018, *52*(3) 1633-1643. [Journal Link](https://pubs.acs.org/doi/abs/10.1021/acs.est.7b03461)
