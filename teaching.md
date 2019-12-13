@@ -1,11 +1,16 @@
 ---
 title: Teaching Experience
 ---
+# Stanford University
+## Teaching Assistant
+CEE 275D **Environmental Policy Analysis** (*Autum 2019*)
+- Developed and taught lectures and recitations on engineering economics, technoecononmic assessment, decision analysis, and risk for 20 graduate students in the Schools of Engineering, the Earth, and Law.
+- Worked with the professor of record for the course to develop assessments for the course.
 
 # Carnegie Mellon University
 
 ## Teaching Assistant
-06-365/19-365 **Water Technology Innovation & Policy** (*Spring 2019*)
+06-365/19-365 **Water Technology Innovation & Policy** (*Spring 2015*)
 - Developed and taught lectures on engineering economics and innovation for 15 upper-level undergraduate and graduate students in Chemical Engineering, Engineering and Public Policy, and Civil Engineering.
 - Worked with the professor of record for the course to develop assessments for the course.
 
