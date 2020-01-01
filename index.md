@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Post-Doctoral Researcher
-subtitle: National Energy Technology Laboratory & Stanford University
+title:  Assistant Professor
+subtitle: The Ohio State University College of Engineering
 ---
 
 ## News
